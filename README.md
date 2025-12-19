@@ -24,3 +24,9 @@ This project provides a comprehensive analysis of sales performance and product 
 2.  **Customer Relations:** Targeted feedback sessions with "Massa Store".
 3.  **Inventory Optimization:** Focus on the Top 10 products; evaluate the bottom 16 for potential discontinuation.
 4.  **Process Improvement:** Implement "Return Reason Codes" for better future RCA (Root Cause Analysis). 
+
+## Dashboard Screens
+![Dashboard Screenshots](Screenshots/Home.PNG)
+![Dashboard Screenshots](Screenshots/Sales.PNG)
+![Dashboard Screenshots](Screenshots/Returns.PNG)
+![Dashboard Screenshots](Screenshots/Summary.PNG)
