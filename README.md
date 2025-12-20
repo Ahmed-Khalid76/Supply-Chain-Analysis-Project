@@ -9,9 +9,10 @@ This project provides a comprehensive analysis of sales performance and product 
 * **Peak Month:** November ($3.5M).
 * **Critical Issue:** The top-selling product ("Caramel Cake") and the top customer ("Massa Store") both exhibit disproportionately high return rates.
 
-## Tech Stack
+## Tech & Techniques
+* **Data Cleaning:** Power Query (Excel)
 * **Data Analysis:** Excel (Pivot Tables).
-* **Visualization:** Excel.
+* **Visualization:** Interactive Excel Dashboard (Slicers, Dynamic Charts).
 * **Documentation:** Markdown.
 
 ## Dashboard Highlights
@@ -23,7 +24,15 @@ This project provides a comprehensive analysis of sales performance and product 
 1.  **Quality Audit:** Investigate "Caramel Cake" production and logistics.
 2.  **Customer Relations:** Targeted feedback sessions with "Massa Store".
 3.  **Inventory Optimization:** Focus on the Top 10 products; evaluate the bottom 16 for potential discontinuation.
-4.  **Process Improvement:** Implement "Return Reason Codes" for better future RCA (Root Cause Analysis). 
+4.  **Process Improvement:** Implement "Return Reason Codes" for better future RCA (Root Cause Analysis).
+
+## Project Structure
+* `Data/`: Raw and cleaned datasets and dashboards.
+* `Report/`: include pdf report summarizing key insights and recommendations.
+* `Screenshots/`: Images of the interactive dashboard.
+---
+**Author:** [Ahmed Khalid]
+**LinkedIn:** [www.linkedin.com/in/ahmed-khalid7]
 
 ## Dashboard Screens
 ![Dashboard Screenshots](Screenshots/Home.PNG)
