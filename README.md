@@ -1,4 +1,4 @@
-# Sales Performance & Supply Chain Analysis
+# Sales Performance & Return Analysis
 ## Project Overview:
 This project provides a comprehensive analysis of sales performance and product returns for a retail business. The goal is to identify revenue drivers, analyze the high return rates of top products, and provide actionable strategic recommendations to optimize operations.
 
