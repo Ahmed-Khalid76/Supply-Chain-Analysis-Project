@@ -30,3 +30,4 @@ This project provides a comprehensive analysis of sales performance and product 
 ![Dashboard Screenshots](Screenshots/Sales.PNG)
 ![Dashboard Screenshots](Screenshots/Returns.PNG)
 ![Dashboard Screenshots](Screenshots/Summary.PNG)
+![Interactive Screen](Screenshots/Project-Excel.gif)
